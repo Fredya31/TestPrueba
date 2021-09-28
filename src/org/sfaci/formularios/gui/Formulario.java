@@ -35,7 +35,7 @@ public class Formulario {
                 String ConfirmPasswrd = pfConfirmPassword.getText();
                 //Collect information from the form and record it, you can view a bine response either by console or by text window
                 //System.out.println("Successful registration: " + Name + " " + LastName);
-                JOptionPane.showMessageDialog(null, "Successful registration: ", Name + LastName,
+                JOptionPane.showMessageDialog(null, "Correct registration: ", Name + LastName,
                         JOptionPane.INFORMATION_MESSAGE);
 
             }
