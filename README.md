@@ -9,3 +9,5 @@ Cotraseña
 Confirmar contraseña
 
 Al momento de registro aparecerá un mensaje de registro exitoso. 
+
+se crar o se grega archivo .gitignorepara para ignorar archovos o carptea que no se necesiten el pryecto.
